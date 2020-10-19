@@ -7,8 +7,8 @@ function AppFooterContent() {
   return (
     <div className="footer__block">
         <div className="footer__wrapper">
-            <p className="footer__text">MadAppGang is a team of tech experts specializing in mobile technologies.
-We develop applications for iOS, Android, WatchOS, tvOS, Wear OS, wearables, and provide loT system integration services. Our experience with mobile apps, artificial intelligence, and embedded system provides a uniquely powerful resource for our clients.</p>
+            <p className="footer__text">MadAppGang is a team of tech experts specializing in mobile technologies.<br/>
+We develop applications for iOS, Android, WatchOS, tvOS, Wear OS, wearables, and provide loT system integration services. Our experience with mobile apps, artificial intelligence, and embedded system provides a uniquely powerful <br/>resource for our clients.</p>
             <p className="footer__text">We work with established businesses and startups who are seeking to innovate and improve customer experience. Over the past few years we`ve built solutions for fintech, healthcare, fitness, transportation, and communication industries.</p>
         </div>
         <div className="footer__wrapper">
